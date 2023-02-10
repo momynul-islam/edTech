@@ -33,3 +33,8 @@ body {
 .about-section {
   background-color: #f4fafd;
 }
+
+.companies-img {
+  width: 150px;
+  height: 24px;
+}
