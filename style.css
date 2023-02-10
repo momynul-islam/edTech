@@ -42,3 +42,31 @@ body {
 .social-media-icon {
   color: #fff;
 }
+
+.feedback-img {
+  width: 60px;
+  height: 60px;
+}
+
+.feedbacks {
+  position: relative;
+}
+
+.left-caret-icon,
+.right-caret-icon {
+  font-size: 35px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 50%;
+}
+
+.left-caret-icon {
+  left: 0;
+  transform: translate(-50%, -50%);
+}
+
+.right-caret-icon {
+  right: 0;
+  transform: translate(50%, -50%);
+}
