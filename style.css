@@ -3,3 +3,33 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+
+.slider-img {
+  filter: brightness(0.35);
+  height: 700px;
+}
+
+.slider-title {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.slider-subtitle {
+  font-size: 18px;
+}
+
+.course-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: #4a4a4a;
+}
+
+.course-price {
+  font-size: 18px;
+  font-weight: 600;
+  color: #289bde;
+}
+
+.about-section {
+  background-color: #f4fafd;
+}
